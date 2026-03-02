@@ -1,15 +1,15 @@
-# Hi there, I'm Augustus Francis! [cite_start]👋 [cite: 1]
+# Hi there, I'm Augustus Francis! 👋
 
-**Software Developer | Data Science Enthusiast | [cite_start]B.Tech CS Graduate** [cite: 3, 5, 33]
+**Software Developer | Data Science Enthusiast | B.Tech CS Graduate**
 
-[cite_start]I am a B.Tech Computer Science graduate from APJ Abdul Kalam Technological University[cite: 33, 34]. [cite_start]I have a strong foundation in software engineering and data science, with a passion for building scalable back-end applications and high-accuracy predictive models[cite: 5, 7].
+I am a B.Tech Computer Science graduate from APJ Abdul Kalam Technological University. I have a strong foundation in software development and data science, with a passion for building scalable back-end applications and high-accuracy predictive models.
 
-### [cite_start]🛠️ Technical Skills [cite: 9]
+### 🛠️ Technical Skills
 
-* [cite_start]**Languages:** Python, SQL, HTML5, CSS3 [cite: 10]
-* [cite_start]**Frameworks:** Django, Flask, Streamlit [cite: 11]
-* [cite_start]**Data Science:** TensorFlow/Keras, Scikit-learn, NumPy, Pandas, Matplotlib, OpenCV [cite: 11, 12]
-* [cite_start]**Tools:** Git, GitHub, Object-Oriented Programming (OOP), DSA [cite: 13]
+* **Languages:** Python, SQL, HTML5, CSS3
+* **Frameworks:** Django, Flask, Streamlit
+* **Data Science:** TensorFlow/Keras, Scikit-learn, NumPy, Pandas, Matplotlib, OpenCV
+* **Tools & Core Competencies:** Git, GitHub, Object-Oriented Programming (OOP), DSA, ML, Deep learning
 
 ---
 
@@ -22,15 +22,15 @@
 
 ### 💼 Experience & Education
 
-* **Data Annotation Intern** | [cite_start]Curvelogics Advanced Technology Solutions [cite: 16]
-    * [cite_start]Annotated 500+ image samples for Computer Vision models[cite: 18].
-* **B.Tech in Computer Science** | [cite_start]APJ Abdul Kalam Technological University [cite: 33, 34]
-* **Certifications:** Advanced AI and Applied Data Science (2026) | [cite_start]AI with Python (2024) [cite: 36, 37]
+* **Data Annotation Intern** | Curvelogics Advanced Technology Solutions
+    * Annotated 500+ image samples for Computer Vision models.
+* **B.Tech in Computer Science** | APJ Abdul Kalam Technological University
+* **Certifications:** Advanced AI and Applied Data Science (2025-2026) | AI with Python (2024)
 
 ---
 
 ### 📫 Let's Connect!
 
-* [cite_start]**Location:** Kerala, India [cite: 2]
-* [cite_start]**Email:** [augustusoff01@gmail.com](mailto:augustusoff01@gmail.com) [cite: 2]
-* [cite_start]**LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/augustus-francis-7a4521398) [cite: 2]
+* **Location:** Kerala, India
+* **Email:** [augustusoff01@gmail.com](mailto:augustusoff01@gmail.com)
+* **LinkedIn:** [LinkedIn](www.linkedin.com/in/augustus-francis-7a4521398)
