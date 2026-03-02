@@ -13,13 +13,6 @@ I am a B.Tech Computer Science graduate from APJ Abdul Kalam Technological Unive
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=augustusfrancis&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustusfrancis&layout=compact&theme=radical)
-
----
-
 ### 💼 Experience & Education
 
 * **Data Annotation Intern** | Curvelogics Advanced Technology Solutions
